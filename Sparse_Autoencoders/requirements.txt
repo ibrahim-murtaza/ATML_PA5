@@ -1,0 +1,13 @@
+torch
+torchvision
+scikit-learn
+numpy
+matplotlib
+seaborn
+tqdm
+wandb
+PyYAML
+timm
+einops
+opencv-python
+scikit-image
