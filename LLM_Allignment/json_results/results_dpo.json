@@ -1,0 +1,6 @@
+{
+    "train_loss": 0.13166258973969938,
+    "epochs": 3,
+    "batch_size": 32,
+    "learning_rate": 5e-05
+}

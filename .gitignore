@@ -1,1 +1,3 @@
 /data
+model_dpo_final.pth
+model_reward_final.pth
