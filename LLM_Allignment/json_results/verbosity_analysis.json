@@ -1,0 +1,127 @@
+{
+  "base": {
+    "overall": {
+      "mean": 29.62,
+      "median": 0.0,
+      "std": 61.943164271774165,
+      "skewness": 2.1601601982324636,
+      "kurtosis": 3.047227160074244
+    },
+    "by_type": {
+      "factual": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "openended": {
+        "mean": 36.3,
+        "std": 70.35062188779855
+      },
+      "hack": {
+        "mean": 36.1,
+        "std": 56.4029254560435
+      }
+    },
+    "length_compliance_rate": 1.0,
+    "avg_deviation": 0.0
+  },
+  "dpo": {
+    "overall": {
+      "mean": 13.0,
+      "median": 0.0,
+      "std": 44.739244517537394,
+      "skewness": 3.4049687932292603,
+      "kurtosis": 10.178566978551451
+    },
+    "by_type": {
+      "factual": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "openended": {
+        "mean": 14.2,
+        "std": 42.599999999999994
+      },
+      "hack": {
+        "mean": 11.4,
+        "std": 30.70895634827077
+      }
+    },
+    "length_compliance_rate": 1.0,
+    "avg_deviation": 0.0
+  },
+  "ppo_sparse": {
+    "overall": {
+      "mean": 1.02,
+      "median": 0.0,
+      "std": 4.580349331655829,
+      "skewness": 5.074632542168907,
+      "kurtosis": 26.250085378586945
+    },
+    "by_type": {
+      "factual": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "openended": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "hack": {
+        "mean": 5.1,
+        "std": 9.170059977993601
+      }
+    },
+    "length_compliance_rate": 1.0,
+    "avg_deviation": 0.0
+  },
+  "ppo_dense": {
+    "overall": {
+      "mean": 0.56,
+      "median": 0.0,
+      "std": 3.9199999999999995,
+      "skewness": 6.8571428571428585,
+      "kurtosis": 45.02040816326534
+    },
+    "by_type": {
+      "factual": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "openended": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "hack": {
+        "mean": 2.8,
+        "std": 8.4
+      }
+    },
+    "length_compliance_rate": 1.0,
+    "avg_deviation": 0.0
+  },
+  "grpo": {
+    "overall": {
+      "mean": 41.12,
+      "median": 0.0,
+      "std": 73.6884359991444,
+      "skewness": 1.5213240316003696,
+      "kurtosis": 0.5602532847012975
+    },
+    "by_type": {
+      "factual": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "openended": {
+        "mean": 84.4,
+        "std": 95.23780761861332
+      },
+      "hack": {
+        "mean": 26.3,
+        "std": 38.533232410479144
+      }
+    },
+    "length_compliance_rate": 0.75,
+    "avg_deviation": 7.25
+  }
+}

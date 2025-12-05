@@ -1,0 +1,25 @@
+{
+    "epochs": 3,
+    "batch_size": 16,
+    "learning_rate": 1e-05,
+    "num_responses_per_prompt": 4,
+    "training_stats": [
+        {
+            "epoch": 1,
+            "mean_reward": 0.812475830078125,
+            "mean_loss": 0.005996086120605469
+        },
+        {
+            "epoch": 2,
+            "mean_reward": 0.8134879760742187,
+            "mean_loss": -1.1542022094726563
+        },
+        {
+            "epoch": 3,
+            "mean_reward": 0.8117381591796875,
+            "mean_loss": -0.7027555770874023
+        }
+    ],
+    "final_mean_reward": 0.8117381591796875,
+    "final_mean_loss": -0.7027555770874023
+}

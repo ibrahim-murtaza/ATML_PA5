@@ -1,0 +1,22 @@
+{
+  "dpo": {
+    "kl_divergence_mean": 0.44014976248145105,
+    "kl_divergence_std": 0.15938487779218216,
+    "perplexity": 13.977851559406338
+  },
+  "ppo_sparse": {
+    "kl_divergence_mean": 1.754778191447258,
+    "kl_divergence_std": 0.5415777744704671,
+    "perplexity": 16.827199760755562
+  },
+  "ppo_dense": {
+    "kl_divergence_mean": 1.7550329089164733,
+    "kl_divergence_std": 0.5494490230039227,
+    "perplexity": 16.875161124921245
+  },
+  "grpo": {
+    "kl_divergence_mean": 0.024576174188405277,
+    "kl_divergence_std": 0.015210795600716505,
+    "perplexity": 13.222398569643167
+  }
+}
